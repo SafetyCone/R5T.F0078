@@ -3,7 +3,7 @@
 using CliWrap;
 
 
-namespace R5T.F0078
+namespace R5T.F0078.Extensions
 {
     public static class CommandExtensions
     {
